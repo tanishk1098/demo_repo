@@ -1,2 +1,2 @@
-console.log("Hello, World!");
-console.log("This is a practice JavaScript file.");
+console .log (" Welcome to my kitchen \n Kheer\nPasta\n Chicken Fry \n Thank you")
+
